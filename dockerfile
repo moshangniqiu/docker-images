@@ -1,1 +1,1 @@
-From docker.io/coollabsio/coolify
+FROM ghcr.io/ajnart/homarr:0.11.3
